@@ -1,1 +1,3 @@
-Hi Vasu, this is the my First Git class, to creating file here to check.
+First line deleted, adding two lines to know the changes effected or not
+this is testing purpose added line or not
+Yes, sure it will add.
