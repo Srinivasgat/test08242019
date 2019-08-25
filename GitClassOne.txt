@@ -1,3 +1,4 @@
 First line deleted, adding two lines to know the changes effected or not
 this is testing purpose added line or not
 Yes, sure it will add.
+I HAVE CONE OR DOWNLOAD  from that  Use git or checkout with SVN using the web URL. And clicked pad symbol to copy.
